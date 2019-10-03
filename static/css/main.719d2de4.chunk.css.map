@@ -1,0 +1,1 @@
+{"version":3,"sources":["card.scss"],"names":[],"mappings":"AAAA,cACE,UAAW,CACX,YAAa","file":"main.719d2de4.chunk.css","sourcesContent":[".react-reveal {\n  width: 100%;\n  display: flex;\n}\n"]}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kosmos/static/css/main.719d2de4.chunk.css",
+    "main.js": "/kosmos/static/js/main.cf7f4290.chunk.js",
+    "main.js.map": "/kosmos/static/js/main.cf7f4290.chunk.js.map",
+    "runtime~main.js": "/kosmos/static/js/runtime~main.d6b43a6b.js",
+    "runtime~main.js.map": "/kosmos/static/js/runtime~main.d6b43a6b.js.map",
+    "static/css/2.5618a2b5.chunk.css": "/kosmos/static/css/2.5618a2b5.chunk.css",
+    "static/js/2.8838f968.chunk.js": "/kosmos/static/js/2.8838f968.chunk.js",
+    "static/js/2.8838f968.chunk.js.map": "/kosmos/static/js/2.8838f968.chunk.js.map",
+    "index.html": "/kosmos/index.html",
+    "precache-manifest.b44407c10324bd679912247cfee59110.js": "/kosmos/precache-manifest.b44407c10324bd679912247cfee59110.js",
+    "service-worker.js": "/kosmos/service-worker.js",
+    "static/css/2.5618a2b5.chunk.css.map": "/kosmos/static/css/2.5618a2b5.chunk.css.map",
+    "static/css/main.719d2de4.chunk.css.map": "/kosmos/static/css/main.719d2de4.chunk.css.map",
+    "static/media/flag-icon.css": "/kosmos/static/media/zw.ad4ad36d.svg"
+  }
+}
